@@ -3,6 +3,9 @@
 - 村上と仕事をする方になった向けの、トリセツ。西野カナもびっくりです。
     - 上司、同僚、部下、人事部、クライアント、VC、コンサルの方などを想定
 - プルリク歓迎
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=ehzyQvUUcUo?controls=0&showinfo=0&autoplay=1&rel=0&vq=highres"  frameborder="0" allowfullscreen></iframe>
+
+
 
 ## 本ドキュメントの目的
 
